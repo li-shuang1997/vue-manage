@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_manage"]=self["webpackChunkvue_manage"]||[]).push([[513],{4513:function(e,n,u){u.r(n),u.d(n,{default:function(){return f}});var a=function(){var e=this,n=e.$createElement,u=e._self._c||n;return u("div",[e._v(" 这是商品管理页面 ")])},t=[],l={name:"Mall",data(){return{}}},r=l,c=u(1001),s=(0,c.Z)(r,a,t,!1,null,null,null),f=s.exports}}]);
+//# sourceMappingURL=513.2583aa7e.js.map

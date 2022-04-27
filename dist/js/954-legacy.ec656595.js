@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_manage"]=self["webpackChunkvue_manage"]||[]).push([[954],{77954:function(e,n,u){u.r(n),u.d(n,{default:function(){return s}});var a=function(){var e=this,n=e.$createElement,u=e._self._c||n;return u("div",[e._v(" 这是pageTwo页面 ")])},t=[],r={name:"PageTwo",data:function(){return{}}},l=r,c=u(1001),f=(0,c.Z)(l,a,t,!1,null,null,null),s=f.exports}}]);
+//# sourceMappingURL=954-legacy.ec656595.js.map
